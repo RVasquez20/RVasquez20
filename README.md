@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy Rodrigo Vasquez</h1>
-<h3 align="center">Desarrollador Backend</h3>
-# 🧠 About Me:
+<h3 align="center">Desarrollador Backend</h3><br />
+
+## 🧠 About Me:<br>
 🔭 Actualmente estoy trabajando en el desarrollo de aplicaciones backend utilizando tecnologías de Microsoft como C#, ASP.NET Core y ASP.NET Framework.<br><br>👯 Estoy buscando colaborar en proyectos que me permitan aplicar y expandir mis habilidades en el ecosistema de Microsoft, compartiendo conocimientos y aprendiendo de otros profesionales en el área.<br><br>🌐 Mi objetivo es contribuir al crecimiento y desarrollo de la comunidad de Microsoft, compartiendo mis conocimientos y aprendiendo de las experiencias de otros en el campo, para enriquecer mi práctica profesional y estar a la vanguardia en las últimas tendencias.<br><br>🌱 Actualmente estoy cursando el último año de la carrera de Ingeniería en Sistemas en la Universidad Mariano Gálvez de Guatemala, donde no solo estoy aprendiendo sobre tecnologías de desarrollo, sino también sobre cómo ser un profesional metódico, ordenado y responsable.<br><br>💬 Acerca de mis experiencias trabajando con el entorno de desarrollo de Microsoft, he enfrentado diversos desafíos y he logrado superarlos a través del aprendizaje constante y la colaboración con otros profesionales. Además, puedo compartir mis conocimientos sobre el proceso de aprendizaje y cómo encontrar recursos para continuar creciendo profesionalmente.<br><br>⚡ Dato curioso: A pesar de ser un apasionado del desarrollo backend, también disfruto explorar otras áreas de la tecnología en mi tiempo libre, como la inteligencia artificial y la ciberseguridad. Me gusta mantenerme actualizado en las últimas tendencias y cómo estas pueden influir en el campo del desarrollo de software.
 
 
